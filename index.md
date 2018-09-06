@@ -11,7 +11,5 @@ I will get back to you within 24 hrs!
 
 # Slides
 [disc00: intro](https://docs.google.com/presentation/d/1qHgjYFfdcNvxsppaKRj0qykrP17bkWodQAjCvKecFOc/edit?usp=sharing)  
-[disc01: control and environments](https://docs.google.com/presentation/d/1RRm7YAf2BJt4_m9ubyBcr_uoYLriiSzjzOLrBllkXLA/edit?usp=sharing)
+[disc01: control and environments](https://docs.google.com/presentation/d/1RRm7YAf2BJt4_m9ubyBcr_uoYLriiSzjzOLrBllkXLA/edit?usp=sharing)<br>
 [disc02: environment diagrams and recursion](https://docs.google.com/presentation/d/1fpQ7jL4OPe08pxpKqQPMbVA1UfrdXOn9DRR5yqIgmGo/edit?usp=sharing)  
-[disc01: control and environments](https://docs.google.com/presentation/d/1RRm7YAf2BJt4_m9ubyBcr_uoYLriiSzjzOLrBllkXLA/edit?usp=sharing)
-[disc02: environment diagrams and recursion](https://docs.google.com/presentation/d/1fpQ7jL4OPe08pxpKqQPMbVA1UfrdXOn9DRR5yqIgmGo/edit?usp=sharing)
