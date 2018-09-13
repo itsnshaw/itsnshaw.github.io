@@ -7,7 +7,7 @@
 I will get back to you within 24 hrs!
 
 # Forms
-[Anonymous Feedback](links.cs61a.org/nancy-fb)
+[Anonymous Feedback](https://links.cs61a.org/nancy-fb)
 
 # Slides
 [disc00: intro](https://docs.google.com/presentation/d/1qHgjYFfdcNvxsppaKRj0qykrP17bkWodQAjCvKecFOc/edit?usp=sharing)  
