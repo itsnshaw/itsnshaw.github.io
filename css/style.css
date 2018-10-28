@@ -12,17 +12,19 @@ h1 {
   padding-top: 120px; 
 }
 h2 {
-  font-size: 1.25em;
+  color: #f7c1c1;
+  font-size: 1.3em;
   font-family:'Ubuntu', sans-serif;
   font-style: none;
-  margin-bottom: 20px;
+  font-weight: 700;
+  padding-top: 70px; 
+  margin-bottom: 10px;
 }
 h3 {
-  font-size: 16px;
+  color: #f7c1c1;
+  font-size: 1.1em;
   font-family:'Ubuntu', sans-serif;
-  line-height: 1.68em;
   font-style: none;
-  font-weight: 400;
   margin-bottom: 5px;
 }
 h4 {
