@@ -1,65 +1,65 @@
 body {
-	height: 100%;
+  height: 100%;
   font: 16px 'Ubuntu', sans-serif;
   line-height: 1.68em;
   color: #848484;
-	background-color: #ffffff;
+  background-color: #ffffff;
 }
 h1 {
   font-size: 2.5em;
   font-family:'Ubuntu', sans-serif;
-	margin-bottom: 30px;
-  padding-top: 150px;
+  margin-bottom: 30px;
+  padding-top: 150px; 
 }
 h2 {
   font-size: 1.25em;
-	font-family:'Ubuntu', sans-serif;
-	font-style: none;
-	margin-bottom: 20px;
+  font-family:'Ubuntu', sans-serif;
+  font-style: none;
+  margin-bottom: 20px;
 }
 h3 {
   font-size: 16px;
-	font-family:'Ubuntu', sans-serif;
+  font-family:'Ubuntu', sans-serif;
   line-height: 1.68em;
-	font-style: none;
+  font-style: none;
   font-weight: 400;
   margin-bottom: 5px;
 }
 h4 {
-	font-size: 20vmin;
-	font-weight: 800;
-	letter-spacing: 4px;
-	line-height: 1.3;
+  font-size: 20vmin;
+  font-weight: 800;
+  letter-spacing: 4px;
+  line-height: 1.3;
 }
 a {
-	text-decoration: none;
-	text-decoration-line: none;
-	color: #f7c1c1;
+  text-decoration: none;
+  text-decoration-line: none;
+  color: #f7c1c1;
 }
 a:link {
-	text-decoration: none;
-	text-decoration-line: none;
-	color: #f7c1c1;
+  text-decoration: none;
+  text-decoration-line: none;
+  color: #f7c1c1;
 }
 a:visited {
-	color: #f7c1c1;
+  color: #f7c1c1;
 }
 a:hover {
-	text-decoration: none;
-	color: #afafaf;
+  text-decoration: none;
+  color: #afafaf;
 }
 a.special
 {
-	text-decoration: none;
+  text-decoration: none;
   color:#848484;
 }
 b {
-	text-decoration: none;
-	color: #848484;
+  text-decoration: none;
+  color: #848484;
 }
 b:hover {
-	text-decoration: none;
-	color: #f7c1c1;
+  text-decoration: none;
+  color: #f7c1c1;
 }
 .container-fluid {
   padding: 60px 50px;
@@ -83,7 +83,7 @@ b:hover {
   background-color: #fff;
   z-index: 9999;
   border: 0;
-	font-family: 'Ubuntu', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   font-size: 16px !important;
   line-height: 1.46 !important;
   letter-spacing: 4px;
